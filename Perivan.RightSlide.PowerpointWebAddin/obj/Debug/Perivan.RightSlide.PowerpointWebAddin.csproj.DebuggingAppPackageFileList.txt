@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\Perivan.RightSlide.PowerpointWebAddinManifest.xml
+E:\Dev\RightSlide\RightSlide.Dump\src\Perivan.RightSlide.PowerpointAddin\Perivan.RightSlide.PowerpointWebAddin\bin\Debug\Perivan.RightSlide.PowerpointWebAddin.debugapp

@@ -1,0 +1,8 @@
+C:\Users\jshort\source\repos\Perivan.RightSlide.PowerpointAddin\Perivan.RightSlide.PowerpointWebAddin\obj\Debug\Perivan.RightSlide.PowerpointWebAddin.csproj.CoreCompileInputs.cache
+C:\Users\jshort\source\repos\Perivan.RightSlide.PowerpointAddin\Perivan.RightSlide.PowerpointWebAddin\bin\Debug\Perivan.RightSlide.PowerpointWebAddin.dll.config
+E:\Dev\Perivan.RightSlide.PowerpointAddin\Perivan.RightSlide.PowerpointWebAddin\bin\Debug\Perivan.RightSlide.PowerpointWebAddin.dll.config
+E:\Dev\Perivan.RightSlide.PowerpointAddin\Perivan.RightSlide.PowerpointWebAddin\obj\Debug\Perivan.RightSlide.PowerpointWebAddin.csproj.CoreCompileInputs.cache
+E:\Dev\Perivan.RightSlide.PowerpointAddin\Perivan.RightSlide.PowerpointWebAddin\obj\Debug\Perivan.RightSlide.PowerpointWebAddin.csprojAssemblyReference.cache
+E:\Dev\RightSlide\RightSlide.Dump\src\Perivan.RightSlide.PowerpointAddin\Perivan.RightSlide.PowerpointWebAddin\bin\Debug\Perivan.RightSlide.PowerpointWebAddin.dll.config
+E:\Dev\RightSlide\RightSlide.Dump\src\Perivan.RightSlide.PowerpointAddin\Perivan.RightSlide.PowerpointWebAddin\obj\Debug\Perivan.RightSlide.PowerpointWebAddin.csprojAssemblyReference.cache
+E:\Dev\RightSlide\RightSlide.Dump\src\Perivan.RightSlide.PowerpointAddin\Perivan.RightSlide.PowerpointWebAddin\obj\Debug\Perivan.RightSlide.PowerpointWebAddin.csproj.CoreCompileInputs.cache

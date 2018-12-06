@@ -1,0 +1,7 @@
+False
+eb1189a9-d7fc-406a-ae87-8baddf16e42eac0a9734-a434-48f3-bdd6-03dc0f038f46
+{cd17f17e-490d-4445-b279-99e71bb472f2}{10f0ff97-e5c7-4897-802b-9f8b6d4afda9}
+{d6c990dd-91b4-4b63-a50b-87eb596900c2}
+1.0.0.0
+Perivan.RightSlide.PowerpointWebAddin
+_layouts/15/
